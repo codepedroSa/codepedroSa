@@ -1,10 +1,20 @@
-<!-- BANNER -->
+<!-- BANNER (GOJO STYLE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=Pedro%20Pedrosa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="COLE_AQUI_O_LINK_DO_BANNER_DO_GOJO" height="220"/>
 </p>
 
 <p align="center">
-📊 Iniciante em Análise de Dados | 💻 Futuro Desenvolvedor | 🔐 Cibersegurança
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4b0082&height=120&section=header"/>
+</p>
+
+<h1 align="center">Pedro Sá</h1>
+
+<p align="center">
+📊 Análise de Dados (início) → 💻 Desenvolvimento de Software → 🔐 Cibersegurança
+</p>
+
+<p align="center">
+“Limitless mindset. One step at a time.” ⚡ (Gojo vibe)
 </p>
 
 ---
@@ -12,9 +22,9 @@
 ## ⚡ Sobre mim
 
 - 📚 Estudando Python, SQL e lógica de programação  
-- 🎯 Foco: evoluir para desenvolvimento de software e cibersegurança  
-- 🧠 Aprendizado contínuo com projetos práticos  
-- 🎌 Fã de anime e cultura tech (disciplina estilo "treinamento de protagonista")
+- 💻 Construindo base para desenvolvimento de software  
+- 🔐 Interesse crescente em cibersegurança  
+- 🎌 Inspirado em disciplina, foco e evolução contínua (anime mindset)
 
 ---
 
@@ -23,31 +33,25 @@
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-1f1f1f?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF4B00?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4B0082?style=for-the-badge&logo=linux&logoColor=white)
 
 </p>
 
 ---
 
-## 📈 Objetivos
+## 🎯 Foco atual
 
-- 💻 Desenvolvimento de Software (Backend)
-- 🔐 Cibersegurança / Ethical Hacking
-- 📊 Análise de Dados aplicada
-
----
-
-## 🎌 Mentalidade
-
-> “Disciplina é mais importante que motivação.”
+- 💻 Desenvolvimento Backend  
+- 📊 Análise de Dados aplicada  
+- 🔐 Cibersegurança (futuro)
 
 ---
 
-## 📫 Contato
+## 🌀 Mentalidade
 
-<p align="center">
-  Em construção 🚧
-</p>
+> “Eu não preciso ser o mais forte agora. Só preciso continuar evoluindo.”
+
+---
