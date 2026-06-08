@@ -1,25 +1,54 @@
-<!-- CYBERPUNK BANNER -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1400&q=80" height="200"/>
-</p>
-
-
-<h1 align="center">PEDRO SÁ</h1>
+<h1 align="center">Pedro Sá</h1>
 
 <p align="center">
-🖥️ Junior Analyst → 💻 Future Developer → 🔐 Cybersecurity Focus
-</p>
-
-<p align="center">
-“Security is not a feature. It’s a mindset.” 🧠
+📊 Análise de Dados (início) → 💻 Desenvolvimento de Software → 🔐 Cibersegurança
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## 👋 Sobre mim
 
-```bash
-> initializing profile...
-> loading skills...
-> status: evolving
-> objective: cybersecurity specialization
+Começando na área de tecnologia, construindo base em Análise de Dados, mas com objetivo claro de evoluir para Desenvolvimento de Software e Cibersegurança.
+
+Estou focado em aprender o essencial e aplicar em projetos reais.
+
+- 📚 Estudando Python, SQL e lógica de programação  
+- 💻 Construindo base para desenvolvimento de software  
+- 🔐 Interesse em segurança da informação  
+- 📈 Foco em consistência e evolução contínua  
+
+---
+
+## 🛠️ Tecnologias em estudo
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</p>
+
+---
+
+## 🎯 Objetivo
+
+- Evoluir de iniciante para desenvolvedor  
+- Criar projetos práticos de dados e backend  
+- Entrar na área de cibersegurança no futuro  
+
+---
+
+## ⚡ Filosofia
+
+> “Aprendizado consistente vale mais do que velocidade sem direção.”
+
+---
+
+## 📫 Contato
+
+<p align="center">
+Em construção 🚧
+</p>
