@@ -3,9 +3,6 @@
   <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1400&q=80" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6a0dad&height=120&section=header"/>
-</p>
 
 <h1 align="center">PEDRO SÁ</h1>
 
