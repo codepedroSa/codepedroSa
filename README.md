@@ -47,8 +47,8 @@ Estou focado em aprender o essencial e aplicar em projetos reais.
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 <p align="center">
-Em construção 🚧
+🔗 LinkedIn: www.linkedin.com/in/pedrosá07
 </p>
